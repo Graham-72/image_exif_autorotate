@@ -1,0 +1,5 @@
+name = Image EXIF Autorotate
+description = Automatically rotates any managed file image.
+core = 7.x
+package = Media
+dependencies[] = imagecache_autorotate
